@@ -1,0 +1,197 @@
+calendarId,title,start,end,category
+3,Fin de periodo vacacional,2022/01/02,2022/01/02,allday
+4,Inicio de labores,2022/01/03,2022/01/03,allday
+9,Solicitud de convenio de pago de reinscripción para Primavera 2022,2022/01/04,2022/01/05,allday
+6,Pago de cuota de reinscripción para Primavera 2022 ,2022/01/04,2022/01/07,allday
+7,Fin de Prácticas Profesionales de Invierno ,2022/01/06,2022/01/06,allday
+5,Entrega de constancias de Prácticas Profesionales de Invierno ,2022/01/07,2022/01/07,allday
+6,Registro de Calificaciones de Prácticas Profesionales de Invierno ,2022/01/07,2022/01/07,allday
+4,Firma de actas de calificaciones finales de Prácticas de Invierno,2022/01/07,2022/01/07,allday
+10,Límite para solicitar inscripción especial para Primavera con tarifa completa,2022/01/07,2022/01/07,allday
+9,Último día para recepción de constancias de Servicio Social para participar en la,2022/01/10,2022/01/10,allday
+2,Reinscripciones,2022/01/12,2022/01/16,allday
+8,"IL, II, IA, IT, IDeIO; 13",2022/01/12,2022/01/12,allday
+1,Inicio de clases del Periodo Primavera. ,2022/01/17,2022/01/17,allday
+3,Devolución de libros en préstamo durante vacaciones. (Biblioteca),2022/01/17,2022/01/17,allday
+3,Socialización de la Planeación Didáctica,2022/01/17,2022/01/22,allday
+9,Toma de fotografía para credencial a estudiantes de nuevo ingreso por,2022/01/18,2022/01/20,allday
+9,Inicio del periodo de Primavera del Seminario Permanente de Investigación INTEGRA,2022/01/18,2022/01/18,allday
+9,Publicación de Convocatoria de Admisión,2022/01/19,2022/01/19,allday
+7,Altas y Bajas de asignaturas,2022/01/24,2022/01/25,allday
+2,Trámite para obtener Tarjeta de Salud,2022/01/24,2022/01/28,allday
+5,Toma de fotografía y entrega de credencial para docentes y administrativos,2022/01/25,2022/01/26,allday
+2,Ceremonia de Graduación para egresados de Otoño e Invierno 2021,2022/01/26,2022/01/28,allday
+10,Selección de empresas para Prácticas Profesionales de Primavera,2022/02/01,2022/02/02,allday
+6,Último día para recepción de constancias de Servicio Social para Trámite de Titulación,2022/02/01,2022/02/01,allday
+1,Día Inhábil ,2022/02/07,2022/02/07,allday
+9,Inicio de Prácticas Profesionales de Primavera ,2022/02/08,2022/02/08,allday
+9,Cuéntanos de Amor. (Evento de Biblioteca),2022/02/14,2022/02/14,allday
+3,Trámite de Titulación,2022/02/16,2022/02/17,allday
+8,Aplicación de encuesta de salida a egresados,2022/02/16,2022/02/17,allday
+9,Sesión Ordinaria del Consejo Académico ,2022/02/18,2022/02/18,allday
+9,Evaluación de Primer Parcial,2022/02/21,2022/02/26,allday
+6,Registro de Calificaciones ,2022/02/24,2022/02/28,allday
+4,Periodo de Tutoría Grupal,2022/02/28,2022/03/11,allday
+2,Periodo de Tutoría Grupal,2022/02/28,2022/03/11,allday
+8,Último día de Baja Temporal a Tiempo,2022/03/02,2022/03/02,allday
+4,Evaluación del Desempeño Docente,2022/03/07,2022/03/18,allday
+7,Día Inhábil,2022/03/21,2022/03/21,allday
+6,Evaluación de Segundo Parcial,2022/03/28,2022/04/02,allday
+9,Registro de Calificaciones,2022/03/31,2022/04/05,allday
+7,Evaluación de Segundo Parcial,2022/03/28,2022/04/02,allday
+3,Registro de Calificaciones,2022/03/31,2022/04/05,allday
+4,Último día para recepción de constancias de Servicio Social para Trámite de Titulación,2022/04/04,2022/04/04,allday
+8,Préstamo de libros para vacaciones. (Biblioteca),2022/04/04,2022/04/09,allday
+7,Salidas de campo de Turismo y Gastronomía,2022/04/05,2022/04/08,allday
+2,Open Data Day (Evento de Ingeniería en Datos e Inteligencia Organizacional),2022/04/08,2022/04/08,allday
+7,Periodo Vacacional,2022/04/11,2022/04/24,allday
+1,Fundación de Cancún,2022/04/20,2022/04/20,allday
+6,Día Internacional del Libro,2022/04/23,2022/04/23,allday
+4,Inicio de labores,2022/04/25,2022/04/25,allday
+7,Registro de Programación Académica de Verano,2022/04/27,2022/04/28,allday
+5,Trámite de Titulación,2022/04/27,2022/04/28,allday
+10,Aplicación de encuesta de salida de egresados,2022/04/27,2022/04/28,allday
+6,Último día de devolución de libros a la Biblioteca,2022/04/30,2022/04/30,allday
+9,Fin de Prácticas Profesionales de Primavera ,2022/05/01,2022/05/01,allday
+2,Entrega de constancias de Prácticas Profesionales de Primavera ,2022/05/02,2022/05/03,allday
+6,Feria de Servicio Social,2022/05/04,2022/05/04,allday
+5,Módulo Informativo de Acompañamiento Estudiantil,2022/05/04,2022/05/04,allday
+8,Día Inhábil,2022/05/05,2022/05/05,allday
+5,Feria de Franquicias,2022/05/05,2022/05/06,allday
+3,Semana de Desarrollo Humano,2022/05/11,2022/05/13,allday
+3,Publicación de la Oferta Académica de Verano ,2022/05/12,2022/05/12,allday
+3,Jornada de Proyectos Académicos de Turismo y Gastronomía,2022/05/12,2022/05/13,allday
+4,Evaluaciones finales,2022/05/16,2022/05/21,allday
+5,Registro de Calificaciones,2022/05/18,2022/05/23,allday
+9,Aniversario de la Biblioteca Antonio Enríquez Savignac,2022/05/19,2022/05/19,allday
+3,Solicitud de reingreso para exámenes extraordinarios,2022/05/19,2022/05/19,allday
+5,Periodo para responder el Instrumento de Resultados Alcanzados de la Planeación Didáctica,2022/05/19,2022/05/28,allday
+1,Rally Turismo Alternativo,2022/05/21,2022/05/21,allday
+9,Último día de clases del Periodo Primavera,2022/05/21,2022/05/21,allday
+9,Inscripción a exámenes extraordinarios,2022/05/23,2022/05/23,allday
+3,Último día de modificación de calificaciones finales (Hora límite: 17:00 h),2022/05/24,2022/05/24,allday
+5,Extraordinarios y registro de calificaciones (Hora límite: 17:00 h),2022/05/24,2022/05/24,allday
+7,Fin del periodo de primavera del Seminario Permanente de Investigación INTEGRA,2022/05/24,2022/05/24,allday
+8,Reingreso por Baja Temporal para Verano,2022/05/24,2022/05/25,allday
+9,Firma de actas de calificaciones finales y de exámenes extraordinarios,2022/05/25,2022/05/26,allday
+10,Inscripción a Cursos de Verano (Carga de asignaturas y Prácticas Profesionales) y selección de        ,2022/05/26,2022/05/27,allday
+10,Inicio de cursos y Prácticas Profesionales de Verano,2022/05/30,2022/05/30,allday
+5,Solicitud de Equivalencias y Cambio de Programa Educativo,2022/05/30,2022/06/02,allday
+10,Socializar la Planeación Didáctica,2022/05/30,2022/06/03,allday
+4,Solicitud de Equivalencias y Cambio de Programa Educativo,2022/05/30,2022/06/02,allday
+8,Socializar la Planeación Didáctica,2022/05/30,2022/06/03,allday
+2,Aplicación de examen psicométrico a aspirantes por Equivalencia.,2022/06/03,2022/06/03,allday
+4,Inicio del Periodo de verano del Seminario Permanente de Investigación INTEGRA,2022/06/06,2022/06/06,allday
+8,Último día para recepción de constancias de Servicio Social para Trámite de Titulación,2022/06/13,2022/06/13,allday
+5,Día del Egresado,2022/06/17,2022/06/17,allday
+5,Registro de Programación Académica de Otoño,2022/06/21,2022/06/24,allday
+1,Límite para pagar Asignaturas y Prácticas Profesionales de Verano,2022/06/24,2022/06/24,allday
+9,Trámite de Titulación,2022/06/29,2022/06/30,allday
+6,Aplicación de encuesta de salida a egresados,2022/06/29,2022/06/30,allday
+8,Préstamo de libros (literatura) para vacaciones. (Biblioteca),2022/07/04,2022/07/08,allday
+6,Respuesta a solicitud de Equivalencia y Cambio de Programa Educativo,2022/07/05,2022/07/05,allday
+5,Periodo para responder el Instrumento de Resultados Alcanzados de la    ,2022/07/08,2022/07/15,allday
+6,Fin de Cursos de Verano y de Prácticas Profesionales de Verano,2022/07/09,2022/07/09,allday
+10,Último día para devolución de libros a la Biblioteca,2022/07/09,2022/07/09,allday
+7,Registro de Calificaciones de Verano,2022/07/07,2022/07/11,allday
+7,Entrega de Constancias de Prácticas Profesionales de Verano,2022/07/12,2022/07/12,allday
+4,Firma de actas de Verano,2022/07/12,2022/07/12,allday
+6,Último día para modificación de calificaciones (Hora límite: 17:00 h),2022/07/12,2022/07/12,allday
+4,Fin del periodo de verano del Seminario Permanente de Investigación INTEGRA,2022/07/12,2022/07/12,allday
+2,Publicación de la Oferta Académica de Otoño,2022/07/13,2022/07/13,allday
+4,Reingresos por Baja Temporal para Otoño,2022/07/13,2022/07/14,allday
+10,Límite para solicitar pago de materia aislada para Otoño. (Para cargar 1 o 2 ,2022/07/15,2022/07/15,allday
+1,Periodo vacacional,2022/07/17,2022/07/31,allday
+7,Pago de cuota de reinscripción para Otoño,2022/07/15,2022/08/05,allday
+3,Cursos Propedéuticos para estudiantes de nuevo ingreso,2022/07/18,2022/08/12,allday
+5,Pago de cuota de reinscripción para Otoño,2022/07/15,2022/08/05,allday
+1,Cursos Propedéuticos para estudiantes de nuevo ingreso,2022/07/18,2022/08/12,allday
+1,Inicio de labores,2022/08/01,2022/08/01,allday
+1,Solicitud de convenio de pago de reinscripción para Otoño,2022/08/01,2022/08/02,allday
+10,Curso de inducción para personal de nuevo ingreso para Otoño,2022/08/01,2022/08/05,allday
+1,Límite para solicitar inscripción especial para Otoño con tarifa completa,2022/08/05,2022/08/05,allday
+4,Último día de entrega de cartas de liberación de Servicio Social para participar en la    ,2022/08/08,2022/08/08,allday
+2,Reinscripciones,2022/08/10,2022/08/14,allday
+5,"TS, TA, GA; 11",2022/08/10,2022/08/10,allday
+9,Inicio de clases del periodo Otoño,2022/08/15,2022/08/15,allday
+4,Devolución de libros en préstamo durante vacaciones (Biblioteca),2022/08/15,2022/08/15,allday
+8,Socialización de la Planeación Didáctica,2022/08/15,2022/08/20,allday
+10,Toma de fotografía y entrega de credencial a docentes y administrativos,2022/08/19,2022/08/19,allday
+10,Inicio del periodo de Otoño del Seminario Permanente de Investigación INTEGRA,2022/08/22,2022/08/22,allday
+10,Altas y Bajas de asignatura,2022/08/22,2022/08/23,allday
+8,Trámite para obtener la Tarjeta de Salud,2022/08/22,2022/08/26,allday
+3,Selección de empresas para Prácticas Profesionales de Otoño,2022/08/22,2022/08/23,allday
+3,Inicio de Prácticas Profesionales de Otoño,2022/08/24,2022/08/24,allday
+4,Ceremonia de Graduación para egresados de Primavera y Veranos 2022,2022/08/29,2022/08/31,allday
+1,Último día para recepción de constancias de Servicio Social para Trámite de Titulación,2022/09/05,2022/09/05,allday
+7,Seminario Anual de Turismo y Sustentabilidad (SATyS) ,2022/09/08,2022/09/10,allday
+2,Sesión Ordinaria del Consejo Académico ,2022/09/15,2022/09/15,allday
+4,Día Inhábil,2022/09/16,2022/09/16,allday
+4,Evaluación de Primer Parcial,2022/09/19,2022/09/24,allday
+7,Trámite de Titulación,2022/09/21,2022/09/22,allday
+10,Aplicación de encuesta de salida a egresados ,2022/09/21,2022/09/22,allday
+1,Registro de Calificaciones ,2022/09/22,2022/09/26,allday
+7,Entrega de documentos y toma de fotografía para credencial de estudiantes de     ,2022/09/26,2022/09/30,allday
+5,Periodo de Tutoría Grupal,2022/09/26,2022/10/07,allday
+5,Último día de Baja Temporal a Tiempo,2022/09/28,2022/09/28,allday
+6,Aniversario de la Universidad ,2022/09/29,2022/09/29,allday
+2,Periodo de Tutoría Grupal,2022/09/26,2022/10/07,allday
+8,Evaluación al Desempeño Docente,2022/10/03,2022/10/14,allday
+9,Semana de la Cultura Ambiental ,2022/10/05,2022/10/07,allday
+9,Aniversario de Quintana Roo,2022/10/08,2022/10/08,allday
+4,Congreso de Turismo Alternativo y Gestión del Patrimonio (COTAL) ,2022/10/13,2022/10/15,allday
+3,Foro Innova-T,2022/10/19,2022/10/20,allday
+4,Congreso Internacional de Ciencias Sociales en el Sureste Mexicano,2022/10/19,2022/10/21,allday
+2,Último día para entrega de documentos con firma de prórroga (Nuevo ingreso),2022/10/24,2022/10/24,allday
+9,Proceso de solicitud de equivalencias,2022/10/24,2022/10/27,allday
+1,Evaluación de Segundo Parcial,2022/10/24,2022/10/29,allday
+2,Noche de relatos (Biblioteca),2022/10/27,2022/10/27,allday
+1,Aplicación de examen psicométrico a aspirantes por Equivalencia,2022/10/28,2022/10/28,allday
+4,Celebración de altares y Ofrenda del Día de Muertos (Biblioteca),2022/10/31,2022/10/31,allday
+9,Segundo periodo de Tutoría Grupal de Otoño,2022/10/31,2022/11/11,allday
+7,Registro de Calificaciones,2022/10/27,2022/11/01,allday
+7,Segundo periodo de Tutoría Grupal,2022/10/31,2022/11/11,allday
+7,Salidas de campo de Turismo y Gastronomía,2022/11/01,2022/11/04,allday
+1,Días inhábiles,2022/11/02,2022/11/02,allday
+8,Días inhábiles,2022/11/21,2022/11/21,allday
+9,Último día para recepción de constancias de Servicio Social para Trámite de Titulación,2022/11/07,2022/11/07,allday
+3,Encuesta de Satisfacción Estudiantil,2022/11/07,2022/11/18,allday
+8,Registro de Programación Académica de Primavera,2022/11/08,2022/11/11,allday
+6,Congreso de Estudiantes de Ingeniería (CEI),2022/11/09,2022/11/11,allday
+3,Feria del Empleo,2022/11/10,2022/11/10,allday
+1,Celebración del Día Nacional del Libro (Biblioteca),2022/11/12,2022/11/12,allday
+3,Jornada por la Igualdad y la Salud (Desarrollo Humano),2022/11/15,2022/11/16,allday
+9,Feria de Servicio Social,2022/11/16,2022/11/16,allday
+8,Módulo informativo de Acompañamiento Estudiantil,2022/11/16,2022/11/16,allday
+1,Congreso Internacional de Gastronomía (CIGA),2022/11/16,2022/11/18,allday
+8,Trámite de Titulación,2022/11/23,2022/11/24,allday
+7,Aplicación de encuesta de salida a egresad@s,2022/11/23,2022/11/24,allday
+9,Último día de devolución de libros a la Biblioteca,2022/11/25,2022/11/25,allday
+3,Fin de Prácticas Profesionales de Otoño,2022/11/26,2022/11/26,allday
+8,Entrega de constancias de Prácticas Profesionales,2022/11/29,2022/11/29,allday
+1,Evaluaciones finales,2022/11/28,2022/12/03,allday
+10,Registro de Programación Académica de Prácticas Profesionales de Invierno,2022/12/01,2022/12/01,allday
+2,Respuesta a Solicitud de Equivalencia,2022/12/01,2022/12/01,allday
+2,Solicitud de reingreso para exámenes extraordinarios ,2022/12/01,2022/12/01,allday
+6,Registro de Calificaciones,2022/12/01,2022/12/05,allday
+5,Periodo para responder el Instrumento de Resultados Alcanzados de la    ,2022/12/01,2022/12/09,allday
+6,Rally Turismo Alternativo ,2022/12/03,2022/12/03,allday
+9,Último día de clases,2022/12/03,2022/12/03,allday
+6,Reingreso por baja temporal para Prácticas Profesionales de Invierno,2022/12/05,2022/12/06,allday
+9,Inscripción a Extraordinarios,2022/12/05,2022/12/05,allday
+1,Inventario de la Biblioteca,2022/12/05,2022/12/09,allday
+2,Exámenes extraordinarios y captura de calificaciones (Hora límite: 17:00 h),2022/12/06,2022/12/06,allday
+1,Último día para modificación de calificación de Otoño (Hora límite: 17:00 h) ,2022/12/06,2022/12/06,allday
+9,Firma de actas de calificaciones finales y exámenes extraordinarios,2022/12/06,2022/12/07,allday
+3,Inscripciones a Prácticas Profesionales de Invierno y Selección de empresas para,2022/12/07,2022/12/07,allday
+4,Solicitud de cabio de Programa Educativo,2022/12/07,2022/12/07,allday
+9,Inicio de Prácticas Profesionales de Invierno,2022/12/08,2022/12/08,allday
+6,Publicación de la Oferta Académica de Primavera,2022/12/08,2022/12/08,allday
+7,Límite pra pagar Prácticas Profesionales de Invierno,2022/12/09,2022/12/09,allday
+10,Curso de inducción para personal de nuevo ingreso para Primavera 2023,2022/12/09,2022/12/15,allday
+1,Reingreso por Baja Temporal para Primavera,2022/12/12,2022/12/13,allday
+2,Préstamo de libros (literatura) para vacaciones. (Biblioteca),2022/12/12,2022/12/14,allday
+9,Respuesta de Cambio de Programa Educativo,2022/12/14,2022/12/14,allday
+6,Fin de periodo de Otoño del Seminario Permanente de Investigación INTEGRA,2022/12/15,2022/12/15,allday
+9,Límite para solicitar pago de materia aislada para Primavera 2023,2022/12/16,2022/12/16,allday
+4,Inicio de Periodo Vacacional,2022/12/17,2022/12/17,allday

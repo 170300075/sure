@@ -1,0 +1,4 @@
+Para añadir al path usar le siguiente comando con el webdriver
+
+sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
+

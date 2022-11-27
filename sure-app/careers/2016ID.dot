@@ -1,0 +1,32 @@
+digraph dot {
+    graph [layout = dot,
+    fillcolor = whitesmoke
+    ]
+    
+    node [shape = square,
+            style = rectangle,
+            color = gray]
+    
+    node [fillcolor = red]
+    a b c d e
+    
+    node [fillcolor = green]
+    f g h i j
+    
+    node [fillcolor = orange]
+    
+    edge [color = grey, 
+            arrowhead = none]
+            
+    a -> {f}
+    b -> {g}
+    c -> {h}
+    d -> {i}
+    e -> {j}
+    
+    f -> {k}
+    g -> {l}
+    h -> {m}
+    i -> {n}
+    j -> {o}
+}

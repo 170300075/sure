@@ -1,0 +1,46 @@
+<div class="container">
+    <!-- Actualizar foto de perfil -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Foto de perfil</span>
+        <input type="file" class="form-control" placeholder="Elegir una foto de perfil" aria-label="username" aria-describedby="username-addon">
+        <button class="btn btn-success" type="button" id="update-profile-picture" aria-label="upload">Subir imagen</button>
+    </div>
+
+    <!-- Perfil de instagram -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="instagram-addon">https://www.instagram.com/</span>
+        <input type="text" class="form-control" id="instagram-profile" placeholder="username" aria-describedby="instagram-addon">
+        <button class="btn btn-outline-info" type="button">Añadir</button>
+    </div>
+    
+    <hr>
+
+    <!-- Alert sobre operación de actualización -->
+    <div class="alert alert-danger " role="alert">
+        <h4 class="alert-heading">Advertencia!</h4>
+        <p style="text-align: justify;">
+            La contraseña de tu perfil en SIGMAA ha cambiado,
+            SURE necesita de tus credenciales para mantener 
+            tu información escolar actualizada.
+    
+            Por favor, actualiza tus credenciales de acceso aquí.
+        </p>
+        <hr>
+        <p>
+            <i class="fa-solid fa-triangle-exclamation"></i> Tu servicio está temporalmente suspendido.
+        </p>
+    </div>
+
+    <!-- Actualizar credenciales -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Confirmar contraseña</span>
+        <input type="password" class="form-control" placeholder="Escribe tu antigua contraseña" aria-label="username" aria-describedby="username-addon">
+    </div>
+
+    <!-- Actualizar credenciales -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Contraseña actual</span>
+        <input type="password" class="form-control" placeholder="Escribe tu contraseña actual" aria-label="username" aria-describedby="username-addon">
+        <button class="btn btn-warning" type="button" id="update-profile-picture" aria-label="upload">Actualizar</button>
+    </div>
+</div>

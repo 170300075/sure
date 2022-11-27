@@ -1,0 +1,45 @@
+<div class="container">
+    
+    <!-- Estatus laboral -->
+    <div class="input-group my-3">
+        <span class="input-group-text">Estatus laboral</span>
+        <select class="form-select">
+            <option selected>Escoge un estatus...</option>
+            <option value="1">Actualmente trabajo</option>
+            <option value="2">No trabajo</option>
+            <option value="3">Estoy desempleado</option>
+        </select>
+        <button class="btn btn-outline-success" type="button">Actualizar</button>
+    </div>
+
+    <!-- Nombre de la empresa -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Empresa</span>
+        <input type="text" class="form-control" placeholder={{company}} aria-label="username" aria-describedby="username-addon" readonly>
+    </div>
+
+    <!-- Horas que toma llevar al trabajo -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Horas de trabajo a la semana</span>
+        <input type="text" class="form-control" placeholder={{working_hours}} aria-label="username" aria-describedby="username-addon" readonly>
+    </div>
+
+    <!-- Horarios de trabajo -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Horario de trabajo</span>
+        <input type="text" class="form-control" placeholder={{working_schedule}} aria-label="username" aria-describedby="username-addon" readonly>
+    </div>
+
+    <!-- Dirección del lugar de trabajo -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Dirección</span>
+        <input type="text" class="form-control" placeholder={{work_address}} aria-label="username" aria-describedby="username-addon" readonly>
+    </div>
+
+    <!-- Teléfono de la empresa -->
+    <div class="input-group my-3">
+        <span class="input-group-text" id="username-addon">Teléfono de la empresa</span>
+        <input type="text" class="form-control" placeholder={{work_phone}} aria-label="username" aria-describedby="username-addon" readonly>
+    </div>
+
+</div>

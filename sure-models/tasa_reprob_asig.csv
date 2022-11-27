@@ -1,0 +1,120 @@
+"","clave","asignatura","tasa_rep_asig"
+"1","II0322","Álgebra lineal",10.7142857142857
+"2","IT0105","Organización y estructura de computadoras",7.14285714285714
+"3","IT0106","Paradigmas de programación",11.1111111111111
+"4","TA0011","Teatro",0
+"5","IT0107","Técnicas algorítmicas",9.90566037735849
+"6","IT0208","Electrónica digital",15.3284671532847
+"7","IT0264","Introducción a los sistemas de información",9.24170616113744
+"8","IT0263","Electrónica analógica",18.716577540107
+"9","II0320","Ecuaciones diferenciales",10.5932203389831
+"10","DP0396","Identidad y cultura",6.00706713780919
+"11","DP0497","Problemas del mundo contemporáneo",7.38916256157636
+"12","II0422","Taller de emprendedores",0
+"13","ID0160","Pensamiento crítico para ingeniería",10.0418410041841
+"14","ID0102","Física clásica",38.8157894736842
+"15","II0319","Probabilidad y estadística",18.3391003460208
+"16","IT0425","Introducción a la inteligencia artificial",34.2465753424658
+"17","ID0205","Geometría computacional",25.5605381165919
+"18","IL0204","Estadística analítica",9.52380952380952
+"19","ID0101","Diseño de patrones para datos estructurados",41.8390804597701
+"20","ID0204","Bases de Datos",5.04201680672269
+"21","ID0263","Sistemas de planificación de recursos empresariales",16.9014084507042
+"22","ID0161","Recursos de comunicación para la era digital",13.0890052356021
+"23","ID0206","Interconectividad en redes",7.10659898477157
+"24","ID0308","Análisis de grandes volúmenes de datos",4.69798657718121
+"25","ID3421","Gestión del conocimiento",2.63157894736842
+"26","ID0309","Aprendizaje estadístico",20.1117318435754
+"27","NI0423","Planeación estratégica",5.40540540540541
+"28","ID0310","Minería de datos",12.4183006535948
+"29","ID0307","Ingeniería de software",3.57142857142857
+"30","ID3422","Negocios digitales",7.84313725490197
+"31","DP0498","Problemas de México",4.08163265306123
+"32","ID3470","Programación de aplicaciones de red",0
+"33","IT0317","Diseño de interfaces humano-máquina",2.12765957446809
+"34","DP0499","Seminario de investigación",9.61538461538461
+"35","ID0412","Métodos de desarrollo de software",1.19047619047619
+"36","IT0322","Teoría de la información",2.4390243902439
+"37","ID0413","Procesamiento de datos en la nube",2.46913580246914
+"38","ID3424","Visualización de datos",1.33333333333333
+"39","PID0201","Prácticas Profesionales I",6.89655172413793
+"40","IT0104","Matemáticas discretas",34.4303797468354
+"41","ID3423","Sistemas de apoyo para la toma de decisiones",8.1081081081081
+"42","ID3420","Analítica para la inteligencia de negocios",1.66666666666667
+"43","IT0423","Administración de proyectos de desarrollo de software",0.869565217391299
+"44","NI3431","Marketing en los negocios electrónicos",0
+"45","PID0302","Prácticas profesionales II",5.88235294117647
+"46","IT0427","Proyecto terminal",1.75438596491229
+"47","PID0403","Prácticas profesionales preespecialidad: Inteligencia organizacional y de negocios",0
+"48","II0106","Cálculo diferencial",39.5793499043977
+"50","IT0103","Introducción a las redes",18.3333333333333
+"51","IT0101","Algoritmos y estructura de datos",39.9361022364217
+"52","LI0109","Tópicos selectos de inglés",10.410094637224
+"53","IT0161","Sistemas operativos POSIX",39.9659863945578
+"55","LI0110","Tópicos  2",14.2259414225941
+"58","DP0191","Taller de interacción grupal y competencias comunicativas",14.859437751004
+"61","PIT0201","Prácticas profesionales I",0
+"62","DP0193","Taller de redacción profesional",11.9289340101523
+"63","IT0160","Introducción a las base de datos",0
+"64","DP0194","Desarrollo de habilidades del pensamiento",19.6881091617934
+"66","II0209","Cálculo integral",34.0369393139842
+"67","IL0102","Teoría general de sistemas",12.9032258064516
+"69","ID0262","Contabilidad y costos para ingeniería",3.79746835443038
+"74","ID3416","Diseño multimedia",10.126582278481
+"81","IT0212","Tecnologías de conmutación de paquetes",0
+"83","IT0210","Programación orientada a objetos",14.8351648351648
+"87","IL0414","Taller de argumentación y técnicas de negociación",1.2987012987013
+"106","ID3418","TIC para la educación",2.10526315789473
+"115","ID3471","Realidad virtual",0
+"117","ID0411","Cómputo de alto desempeño",10.3448275862069
+"119","ID3417","Diseño de juegos",7.89473684210527
+"121","ID0414","Seguridad de datos",2.75229357798165
+"122","PID0404","Prácticas Profesionales preespecialidad: Innovación en TIC",4.54545454545454
+"125","ID3415","Cómputo ubicuo",4.65116279069767
+"126","ID3419","TIC para la salud",7.69230769230769
+"133","PIT0302","Prácticas profesionales II",0
+"173","LI1104","Nivel 4 Inglés",13.4730538922156
+"175","AD0018","Yoga",7.40740740740741
+"249","AD0007","Preparación física avanzada",0
+"250","TA0006","Apreciación cinematográfica",9.67741935483871
+"260","II0102","Física experimental",0
+"295","ID0103","Organización y diseño de computadoras",39.4736842105263
+"296","ID0264","Innovación disruptiva",9.09090909090909
+"306","LI1103","Nivel 3 Inglés",12.0253164556962
+"309","DP0295","Taller de formación en responsabilidad social y ambiental",5.21172638436482
+"310","II0215","Electricidad y magnetismo",26.7123287671233
+"320","AD0003","Basquetbol",5.88235294117647
+"322","TA0030","Entrenamiento auditivo musical",20.5882352941177
+"344","ID3469","Internet de las cosas",0
+"361","LI1102","Nivel 2 Inglés",13.1756756756757
+"368","TA0029","Instrumentos de cuerdas orquestales",0
+"391","IT3472","Principios de automatización y robótica",4.25531914893616
+"407","ID3472","Tópicos selectos en ingeniería de datos",0
+"445","AD0014","Tenis de mesa",0
+"458","TA0002","Guitarra",3.27868852459017
+"478","AD0013","Tenis",4.87804878048781
+"481","TA0019","Salsa y merengue",4.76190476190477
+"523","ID3474","Sistemas de información geográfica",8.33333333333334
+"590","TA0017","Dibujo y pintura",6.25
+"667","II0423","Métodos numéricos por computadora",0
+"734","IL3422","Liderazgo y equipos de trabajo",4.39560439560439
+"813","AD0010","Taller de ajedrez",3.84615384615384
+"842","TA0009","Radio",0
+"879","ID3466","Gobierno de datos y redes sociales",1.01010101010101
+"883","AD0011","Tocho bandera",0
+"947","TA0008","Coro",0
+"1278","ID3468","Herramientas para la gestión de grandes volúmenes de datos",0
+"1304","ID0265","Programación web",13.6842105263158
+"1364","LI1101","Nivel 1 Inglés",16.7832167832168
+"1548","AD0002","Voleibol",0
+"1761","TA0005","Fotografía",9.09090909090909
+"1933","AD0001","Fútbol",0
+"2333","TA0010","Bailes caribeños",0
+"2364","TA0031","Canto",11.1111111111111
+"3037","TA0035","Taller de lengua de señas mexicana",0
+"3335","TA0032","Ritmos Latinos",0
+"3580","AD0016","Natación",9.09090909090909
+"3999","TA0023","Escritura creativa",0
+"5616","TA0020","Encuadernación",0
+"6474","TA0034","Apreciación e historia del arte",0
+"16237","II0002","Propedéutico de matematicas para ingenierias",0
