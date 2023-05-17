@@ -11,8 +11,8 @@ from pymongo import MongoClient
 ######################################
 #       Conexión con bases de datos  #
 ######################################
-load_dotenv(".env")
-mongodb_uri = os.getenv("MONGODB_URI_2")
+load_dotenv("./config/.env")
+mongodb_uri = os.getenv("MONGODB_URI")
 base_url = os.getenv("BASE_URL")
 
 print("mongodb_uri: " + mongodb_uri, end = "\n\n")
